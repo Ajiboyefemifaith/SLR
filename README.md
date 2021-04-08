@@ -11,4 +11,4 @@ kc_housing_data
 KC housing prediction
 
 # Result
-The accuracy of the model(0.5) still needs improvement.
+The model was evaluated using the R squared value. The accuracy of the model(0.5) still needs improvement.
